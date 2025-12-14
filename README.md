@@ -7,10 +7,10 @@
 ## 👨‍💻 About Me
 
 I am a **Full-stack MERN Developer** from Pakistan, passionate about building **scalable and clean web applications**.  
-Currently a student, I enjoy **learning new technologies** and collaborating on impactful projects.
+I enjoy **learning new technologies** and collaborating on impactful projects.
 
-- 🔭 Currently working on **Distribution Management System** & **Fitness Center Management System**  
-- 🌱 Learning advanced **React, Node.js, and cloud deployment**  
+- ✅ Successfully completed **Distribution Management System** & **Fitness Center Management System**  
+- 🌱 Continuously learning advanced **React, Node.js, and cloud deployment**  
 - 💬 Ask me about **JavaScript, React, Node.js, PHP, and database design**  
 
 ---
