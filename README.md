@@ -18,7 +18,7 @@ I enjoy **learning new technologies** and collaborating on impactful projects.
 ## 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7F7FD5?style=for-the-badge&logo=firefox&logoColor=white)](https://hamzaiqbalprofile.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-iqbal-rajpoot-9a6624267)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-iqbal-9a6624267/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzaiqbal35)
 
 ---
