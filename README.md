@@ -73,9 +73,9 @@ Personal portfolio website showcasing projects, skills, and achievements.
 
 ## 📊 GitHub Stats
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaiqbal35&show_icons=true&theme=radical)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaiqbal35&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaiqbal35&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaiqbal35&layout=compact&theme=radical&hide_border=true)
 
 ---
 
