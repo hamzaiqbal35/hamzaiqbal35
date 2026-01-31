@@ -1,17 +1,17 @@
 # Hi, I'm Hamza Iqbal 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7F7FD5&width=500&lines=Full-stack+MERN+Developer;React,+Node.js,+MongoDB;Building+Scalable+Web+Apps+%26+Clean+Code;Open+to+Collaboration+%26+Learning+New+Tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7F7FD5&width=500&lines=Full-stack+MERN+Next.js+Developer;React,+TypeScript,+Node.js,+MongoDB;Building+Scalable+Web+Apps+%26+Clean+Code;Open+to+Collaboration+%26+Learning+New+Tech)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hamzaiqbal35&color=blueviolet&style=flat)](https://github.com/hamzaiqbal35)
 
 ## 👨‍💻 About Me
 
-I am a **Full-stack MERN Developer** from Pakistan, passionate about building **scalable and clean web applications**.  
+I am a **Full-stack MERN Next.js Developer** from Pakistan, passionate about building **scalable and clean web applications**.  
 I enjoy **learning new technologies** and collaborating on impactful projects.
 
 - ✅ Successfully completed **Distribution Management System** & **Fitness Center Management System**  
 - 🌱 Continuously learning advanced **React, Node.js, and cloud deployment**  
-- 💬 Ask me about **JavaScript, React, Node.js, PHP, and database design**  
+- 💬 Ask me about **JavaScript, React, Typescript, Node.js, PHP, and database design**  
 
 ---
 
