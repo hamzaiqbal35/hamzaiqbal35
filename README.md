@@ -65,9 +65,9 @@ Full distribution management system with inventory, sales, purchases, and report
 **Tech:** Blade, PHP  
 Track and manage service complaints efficiently with a clean admin panel.
 
-### [Portfolio Profile](https://github.com/hamzaiqbal35/Portfolio_profile)  
-**Tech:** TypeScript, React  
-Personal portfolio website showcasing projects, skills, and achievements.
+### [Learning Management System](https://github.com/hamzaiqbal35/School_LMS)  
+**Tech:** TypeScript, Node.js, MongoDB, Tailwind CSS
+Built and deployed a production-ready role-based LMS used by administrators and teachers to manage classes, attendance, assignments, and results
 
 ---
 
