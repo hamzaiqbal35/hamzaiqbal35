@@ -182,13 +182,9 @@ A web-based system for managing customer complaints and service requests.
 ## Connect
 
 <p align="left">
-  <a href="https://hamzaiqbalprofile.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/hamza-iqbal-9a6624267/">
-    <img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/hamzaiqbal35">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://hamzaiqbalprofile.netlify.app">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hamza-iqbal-9a6624267/">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/hamzaiqbal35">GitHub</a>
 </p>
