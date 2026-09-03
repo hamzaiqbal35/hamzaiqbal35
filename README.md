@@ -8,7 +8,7 @@ My work spans **React and Next.js applications, RESTful APIs, business managemen
 
 **Core Stack:** TypeScript · JavaScript · React · Next.js · Node.js · Express · MongoDB · PHP · Laravel
 
-[Portfolio](https://hamzaiqbalprofile.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hamza-iqbal-9a6624267/) · [GitHub](https://github.com/hamzaiqbal35)
+[Portfolio](https://hamzaiqbalprofile.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hamza-iqbal-9a6624267/) 
 
 ---
 
@@ -185,6 +185,4 @@ A web-based system for managing customer complaints and service requests.
   <a href="https://hamzaiqbalprofile.netlify.app">Portfolio</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hamza-iqbal-9a6624267/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/hamzaiqbal35">GitHub</a>
 </p>
