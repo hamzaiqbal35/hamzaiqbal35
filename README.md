@@ -1,131 +1,133 @@
 # Hamza Iqbal
 
-### Full-Stack Developer | MERN Stack | Next.js
+**Full-Stack Software Developer · MERN · Next.js · TypeScript**
 
-I build modern, production-ready web applications with a focus on **clean architecture, maintainable code, responsive interfaces, and reliable backend systems**.
+I design and build **production-oriented web applications** across the frontend, backend, and database layers.
 
-My primary stack includes **JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, PHP, and Laravel**.
+My work spans **React and Next.js applications, RESTful APIs, business management systems, e-commerce platforms, and role-based applications**. I focus on maintainable architecture, clear separation of concerns, reliable data flows, responsive interfaces, and practical deployment.
 
-I enjoy turning complex requirements into practical software — from business management systems and e-commerce platforms to learning management systems and social applications.
+**Core Stack:** TypeScript · JavaScript · React · Next.js · Node.js · Express · MongoDB · PHP · Laravel
 
-[Portfolio](https://hamzaiqbalprofile.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/hamza-iqbal-9a6624267/) · [GitHub](https://github.com/hamzaiqbal35)
-
----
-
-## About
-
-* Full-Stack Developer with experience building web applications across frontend and backend
-* Experienced with **MERN Stack, Next.js, PHP, and Laravel**
-* Comfortable designing **REST APIs, database schemas, authentication systems, and role-based applications**
-* Experience deploying applications using platforms such as **Vercel, Netlify, Render, Hostinger, and MongoDB Atlas**
-* Interested in software architecture, performance optimization, developer tooling, and modern web technologies
-* Open to **professional opportunities, freelance projects, collaboration, and open-source contributions**
+[Portfolio](https://hamzaiqbalprofile.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hamza-iqbal-9a6624267/) · [GitHub](https://github.com/hamzaiqbal35)
 
 ---
 
-## Technical Skills
+## Engineering Focus
 
-### Languages
+I work across the full application lifecycle — from translating requirements into technical solutions to building, testing, deploying, and maintaining applications.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square\&logo=typescript\&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square\&logo=php\&logoColor=777BB4)
+**Frontend**
 
-### Frontend
+* React and Next.js application development
+* TypeScript-based development
+* Component-driven UI architecture
+* Responsive and accessible interfaces
+* Client/server data management
+* Performance-conscious frontend implementation
 
-![React](https://img.shields.io/badge/React-111827?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square\&logo=next.js\&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square\&logo=tailwindcss\&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square\&logo=vite\&logoColor=646CFF)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square\&logo=css3\&logoColor=1572B6)
+**Backend**
 
-### Backend & Databases
+* Node.js and Express API development
+* REST API design and integration
+* Authentication and authorization
+* Role-based access control
+* Business logic and service-layer design
+* API validation, error handling, and security considerations
 
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square\&logo=node.js\&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square\&logo=express\&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square\&logo=laravel\&logoColor=FF2D20)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square\&logo=mongodb\&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square\&logo=mysql\&logoColor=4479A1)
+**Data**
 
-### Tools & Platforms
+* MongoDB schema and query design
+* MySQL relational database design
+* Data modeling and application-level relationships
+* CRUD and transactional workflows
 
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square\&logo=github\&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square\&logo=visualstudiocode\&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square\&logo=postman\&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square\&logo=vercel\&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-111827?style=flat-square\&logo=netlify\&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-111827?style=flat-square\&logo=render\&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square\&logo=figma\&logoColor=F24E1E)
+**Delivery**
+
+* Git-based development workflows
+* API testing with Postman
+* Cloud deployment and environment configuration
+* Vercel, Netlify, Render, Hostinger, and MongoDB Atlas
+* Production debugging and deployment troubleshooting
 
 ---
 
-## Featured Projects
+## Selected Work
 
 ### Learning Management System
 
 **TypeScript · React · Node.js · MongoDB · Tailwind CSS**
 
-A role-based learning management platform designed for educational institutions.
+A production-oriented LMS designed around role-based workflows for educational institutions.
 
-* Role-based access for administrators and teachers
-* Class and student management
-* Attendance management
+**Key areas**
+
+* Role-based administration
+* Teacher and class management
+* Attendance workflows
 * Assignment management
-* Result management
+* Student results
+* Centralized academic data management
 * Production deployment
 
-[View Repository](https://github.com/hamzaiqbal35/School_LMS)
+[Repository](https://github.com/hamzaiqbal35/School_LMS)
 
 ---
 
 ### FitTrack — Fitness Center Management System
 
-**JavaScript · React · Node.js · MongoDB**
+**React · Node.js · MongoDB · JavaScript**
 
-A management platform connecting fitness center administrators, trainers, and members.
+A full-stack management platform connecting administrators, trainers, and members through dedicated workflows.
 
-* Admin, trainer, and member workflows
-* Dashboard-based management
+**Key areas**
+
+* Administrative dashboards
+* Trainer management
+* Member management
 * Class scheduling
-* Membership and subscription management
-* Member progress tracking
+* Subscription management
+* Progress tracking
+* Backend API integration
 
-[View Repository](https://github.com/hamzaiqbal35/ApexcifyTechnologys_Fitness-Center-Management-System)
+[Repository](https://github.com/hamzaiqbal35/ApexcifyTechnologys_Fitness-Center-Management-System)
 
 ---
 
-### Multi-Vendor eCommerce Platform
+### Multi-Vendor Commerce Platform
 
-**JavaScript · React · Node.js · MongoDB**
+**React · Node.js · MongoDB · JavaScript**
 
-A full-stack e-commerce platform designed around multiple vendors and centralized product and order management.
+A full-stack commerce application designed to support multiple vendors within a centralized platform.
+
+**Key areas**
 
 * Vendor management
-* Product management
-* Order processing
+* Product catalog management
 * Customer workflows
-* REST API architecture
+* Order processing
+* API-driven architecture
+* Multi-role application flows
 
-[View Repository](https://github.com/hamzaiqbal35/ApexcifyTechnologys_Multi-Vendor-eCommerce-Platform)
+[Repository](https://github.com/hamzaiqbal35/ApexcifyTechnologys_Multi-Vendor-eCommerce-Platform)
 
 ---
 
-### Social Media Platform
+### Social Platform
 
-**JavaScript · React · Node.js · MongoDB**
+**React · Node.js · MongoDB · JavaScript**
 
-A full-stack social platform implementing core social networking functionality.
+A full-stack social application implementing common social interaction and content workflows.
+
+**Key areas**
 
 * User profiles
-* Posts
+* Content creation
 * Comments
-* Likes
-* User interactions
-* Backend REST APIs
+* Likes and interactions
+* User relationships
+* REST API integration
 
-[View Repository](https://github.com/hamzaiqbal35/ApexcifyTechnologys_Social-Media-Platform)
+[Repository](https://github.com/hamzaiqbal35/ApexcifyTechnologys_Social-Media-Platform)
 
 ---
 
@@ -133,58 +135,146 @@ A full-stack social platform implementing core social networking functionality.
 
 **PHP · Laravel · MySQL · Blade**
 
-A business management system for handling distribution operations and inventory workflows.
+A business management platform built around operational workflows for distribution and inventory management.
+
+**Key areas**
 
 * Inventory management
 * Sales and purchasing
 * Product management
 * Reporting
+* Administrative workflows
 * E-commerce integration
 
-[View Repository](https://github.com/hamzaiqbal35/Distribution-Management-System_Ecommerce-Website)
+[Repository](https://github.com/hamzaiqbal35/Distribution-Management-System_Ecommerce-Website)
 
 ---
 
-### Complaint & Service Request Tracking System
+### Complaint & Service Request Management
 
-**PHP · Laravel · Blade · MySQL**
+**PHP · Laravel · MySQL · Blade**
 
-A web-based system for managing customer complaints and service requests.
+A centralized application for managing customer complaints and service requests through structured administrative workflows.
 
-* Complaint submission and tracking
-* Request management
-* Administrative workflows
+**Key areas**
+
+* Complaint registration
+* Service request tracking
 * Status management
-* Centralized service records
+* Administrative processing
+* Centralized records
 
-[View Repository](https://github.com/hamzaiqbal35/Complaint_Service_Request_Tracking_System)
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaiqbal35\&theme=github_dark)
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzaiqbal35\&theme=github_dark)
+[Repository](https://github.com/hamzaiqbal35/Complaint_Service_Request_Tracking_System)
 
 ---
 
-## Currently Focused On
+## Technology
 
-* Building full-stack applications with **Next.js and TypeScript**
-* Improving backend architecture and API design
-* Writing cleaner and more maintainable code
-* Deployment, performance, and production workflows
-* Exploring modern software development practices
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Languages
+
+JavaScript
+TypeScript
+PHP
+SQL
+
+</td>
+<td valign="top" width="33%">
+
+### Frameworks
+
+React
+Next.js
+Node.js
+Express
+Laravel
+Blade
+
+</td>
+<td valign="top" width="33%">
+
+### Databases
+
+MongoDB
+MySQL
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Frontend
+
+Tailwind CSS
+Vite
+HTML5
+CSS3
+
+</td>
+<td valign="top">
+
+### Development
+
+Git
+GitHub
+Postman
+VS Code
+Figma
+
+</td>
+<td valign="top">
+
+### Deployment
+
+Vercel
+Netlify
+Render
+Hostinger
+MongoDB Atlas
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Let's Connect
+## Engineering Principles
 
-If you're interested in **building a project, collaborating, or discussing software development**, feel free to reach out.
+I try to keep my development process centered around a few fundamentals:
 
-**Portfolio:** [hamzaiqbalprofile.netlify.app](https://hamzaiqbalprofile.netlify.app/)
+**Clarity over complexity**
+Prefer straightforward solutions that are easy to understand, test, and maintain.
 
-**LinkedIn:** [linkedin.com/in/hamza-iqbal-9a6624267](https://www.linkedin.com/in/hamza-iqbal-9a6624267/)
+**Separation of concerns**
+Keep presentation, business logic, data access, and infrastructure responsibilities appropriately separated.
 
-**GitHub:** [github.com/hamzaiqbal35](https://github.com/hamzaiqbal35)
+**API-first thinking**
+Design backend interfaces around predictable contracts and reusable services.
+
+**Maintainability**
+Code should be written for the next developer who has to understand it — not just for the developer who wrote it.
+
+**Production awareness**
+Development does not end when an application works locally. Deployment, configuration, error handling, performance, and operational reliability matter.
+
+---
+
+## GitHub
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaiqbal35\&theme=github_dark)
+
+![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzaiqbal35\&theme=github_dark)
+
+---
+
+## Open To
+
+**Software development · Full-stack projects · Freelance work · Technical collaboration · Open-source**
+
+If you're building a product, improving an existing application, or looking for a developer to work across the stack, feel free to connect.
+
+[Portfolio](https://hamzaiqbalprofile.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hamza-iqbal-9a6624267/) · [GitHub](https://github.com/hamzaiqbal35)
