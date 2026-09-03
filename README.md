@@ -179,11 +179,16 @@ A web-based system for managing customer complaints and service requests.
 
 ---
 
-## Open To
+## Connect
 
-**Software development · Full-stack projects · Freelance work · Technical collaboration · Open-source**
-
-If you're building a product, improving an existing application, or looking for a developer to work across the stack, feel free to connect.
-
-[Portfolio](https://hamzaiqbalprofile.netlify.app) · [LinkedIn](https://www.linkedin.com/in/hamza-iqbal-9a6624267/) · [GitHub](https://github.com/hamzaiqbal35)
-
+<p align="left">
+  <a href="https://hamzaiqbalprofile.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-iqbal-9a6624267/">
+    <img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hamzaiqbal35">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
