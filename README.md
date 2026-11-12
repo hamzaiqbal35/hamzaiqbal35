@@ -2,7 +2,7 @@
 
 **Full-Stack Software Developer · MERN · Next.js · TypeScript**
 
-I design and build **production-oriented software applications**, from full-stack web platforms to cross-platform desktop tools.
+I build full-stack web applications and cross-platform desktop software, working across frontend interfaces, backend services, APIs, databases, and application architecture.
 
 My work spans React and Next.js applications, RESTful APIs, business management systems, eCommerce platforms, developer utilities, SEO tooling, and workflow automation. I focus on maintainable architecture, practical engineering solutions, reliable data flows, and software that solves real-world problems.
 
