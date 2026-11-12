@@ -106,7 +106,7 @@ A full-stack eCommerce platform featuring a customer storefront and an administr
 - Product, inventory, banner, and store settings management
 - RESTful APIs with JWT authentication
 
-[View Repository](https://github.com/hamzaiqbal35/Fluxmart_Multi-Vendor-eCommerce-Platform)
+[View Repository](https://github.com/hamzaiqbal35/Fluxmart.git)
 
 ---
 
